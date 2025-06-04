@@ -20,7 +20,7 @@ deprecated==1.2.15
     # via
     #   opentelemetry-api
     #   opentelemetry-semantic-conventions
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 httpcore==1.0.7
     # via httpx
